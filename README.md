@@ -26,4 +26,4 @@ A través del análisis SQL, el sistema permite responder preguntas clave del ne
 * **Herramientas:** HeidiSQL para administración y ejecución de consultas
 
 ## 7. Archivos en este repositorio
-* 📂 `/reports/Diseño e implementación de una base de datos relacional.pdf`: Documentación técnica que incluye el análisis del problema, diagrama relacional detallado y evidencia de la ejecución del código SQL.
+* 📂 [Diseño e implementación de una base de datos relacional.pdf](reports/Diseño%20e%20implementación%20de%20una%20base%20de%20datos%20relacional.pdf): Documentación técnica que incluye el análisis del problema, diagrama relacional detallado y evidencia de la ejecución del código SQL.
