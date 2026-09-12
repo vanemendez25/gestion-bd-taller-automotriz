@@ -1,9 +1,9 @@
-# 🚗 Sistema de Gestión de Base de Datos: Taller Automotriz
-<!-- Aquí está la animación del coche lista y funcionando -->
+#                                  Sistema de Gestión de Base de Datos: Taller Automotriz
+<!-- Animación del coche (Hosteada en GitHub) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFtaGZzY2lxaTIxeHF2bDRuMGZ3YzZqeWxjeTFnN2VlZGQ5YzV5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LSLc236sXv4i28O95C/giphy.gif" width="180" alt="Car Animation" />
+  <img src="https://github.com/user-attachments/assets/ad8e0405-5042-4f03-abc0-c1025e5c845d" width="180" alt="Car Animation" />
 </div>
-<br>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
@@ -23,13 +23,11 @@ Para poblar el sistema y realizar pruebas realistas, se generaron y procesaron a
 *   **Estructura Relacional:** 6 tablas principales con llaves primarias y foráneas (`clientes`, `vehiculos`, `servicios`, `productos`, `ordenes_trabajo`, `pagos`).
 *   **Diseño:** Creación de un diagrama Entidad-Relación basado en los procesos clave del negocio.
 
-<!-- VANE: Aquí puedes arrastrar la imagen de tu Diagrama Entidad-Relación para que se vea súper pro -->
+<img width="921" height="691" alt="Diagrama" src="https://github.com/user-attachments/assets/0575774a-ef04-4b7f-91a6-a9bdeba488bb" />
 <div align="center">
-  <i>(Espacio para tu Diagrama Entidad-Relación)</i>
 </div>
 
 ### 🛠️ Consultas y Extracción de Valor
-
 Se desarrollaron consultas SQL avanzadas (usando `INNER JOIN`, `GROUP BY`, `HAVING`) para responder preguntas clave y facilitar la toma de decisiones administrativas:
 
 *   📦 **Control de Inventario:** Identificación automática de productos con stock crítico (<= 10 unidades).
