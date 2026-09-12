@@ -50,7 +50,7 @@ Todo el análisis detallado del problema, el diagrama relacional y la evidencia 
 
 ### 👩🏻‍💻 Autora
 
-**Vanessa Méndez**  
+**Vanessa Guadalupe Méndez Lara**  
 *Estudiante de Ingeniería en Ciencia de Datos | Universidad Veracruzana*
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanemendez25)
